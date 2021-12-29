@@ -1,0 +1,29 @@
+<svg id="medusa" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 462.99 316.34">
+  <defs>
+    <linearGradient id="Gradient_bez_nazwy_4" data-name="Gradient bez nazwy 4" x1="204.56" y1="363.82" x2="411.24" y2="363.82" gradientTransform="translate(312.41 -36.65) rotate(29.42)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.25" stop-color="#009fe3"/>
+      <stop offset="0.85" stop-color="#b3dac5"/>
+    </linearGradient>
+    <linearGradient id="Gradient_bez_nazwy_4-2" x1="216.47" y1="445.5" x2="423.15" y2="445.5" gradientTransform="translate(526.04 -33.52) rotate(55.84)" xlink:href="#Gradient_bez_nazwy_4"/>
+    <linearGradient id="Gradient_bez_nazwy_4-3" x1="163.55" y1="557.14" x2="370.23" y2="557.14" gradientTransform="translate(826.52 536.4) rotate(120.85)" xlink:href="#Gradient_bez_nazwy_4"/>
+    <linearGradient id="Gradient_bez_nazwy_6" data-name="Gradient bez nazwy 6" x1="127.92" y1="438.89" x2="59.86" y2="466.45" gradientUnits="userSpaceOnUse">
+      <stop offset="0.25" stop-color="#009fe3"/>
+      <stop offset="0.75" stop-color="#b3dac5"/>
+    </linearGradient>
+    <radialGradient id="Gradient_bez_nazwy_124" data-name="Gradient bez nazwy 124" cx="227" cy="327.59" fx="161.2974237483418" fy="272.6365183087275" r="119.92" gradientTransform="translate(712.13 75.35) rotate(87.06) scale(1 1.52)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.42" stop-color="#b3dac5"/>
+      <stop offset="0.49" stop-color="#8cc"/>
+      <stop offset="0.57" stop-color="#5fbed3"/>
+      <stop offset="0.65" stop-color="#3db3d9"/>
+      <stop offset="0.73" stop-color="#2ad"/>
+      <stop offset="0.82" stop-color="#0fa4e0"/>
+      <stop offset="0.91" stop-color="#04a0e2"/>
+      <stop offset="1" stop-color="#009fe3"/>
+    </radialGradient>
+  </defs>
+  <path id="leg4" d="M318.66,368.73l147.43,55.68c27,11.14,35.56,41.59,25.28,58.81s-40.88,24.1-63.53,5.83c-43.25-27.94-111.95-77.91-126.85-89Z" transform="translate(-33.1 -256.75)" style="stroke: #009fe3;stroke-linecap: round;stroke-miterlimit: 10;fill: url(#Gradient_bez_nazwy_4)"/>
+  <path id="leg3" d="M290.38,388,397.64,503.48c19.26,22,13.35,53.08-3.53,63.92s-47.33,3.4-59.48-23c-26.31-44.27-65.59-119.59-74-136.13Z" transform="translate(-33.1 -256.75)" style="stroke: #009fe3;stroke-linecap: round;stroke-miterlimit: 10;fill: url(#Gradient_bez_nazwy_4-2)"/>
+  <path id="leg2" d="M276.17,398.15l-59.34,146c-11.82,26.76-42.47,34.51-59.42,23.8s-23.08-41.47-4.24-63.65c29-42.54,80.68-110,92.13-124.59Z" transform="translate(-33.1 -256.75)" style="stroke: #009fe3;stroke-linecap: round;stroke-miterlimit: 10;fill: url(#Gradient_bez_nazwy_4-3)"/>
+  <path id="leg1" d="M229.42,404.51,97.91,491.35c-24.88,15.38-54.54,4.44-62.46-14s4.42-47.24,32.5-54.89c48-18.67,128.74-45.05,146.44-50.63Z" transform="translate(-33.1 -256.75)" style="fill: url(#Gradient_bez_nazwy_6)"/>
+  <path d="M411,368.47c-12.59,10.55-62,49.47-138.68,52.31-88,3.26-146-43.44-156.64-52.31,21.15-47.73,45.72-30.48,66.87-78.21,4.07-3.79,44.21-40,101.23-32.49A119.1,119.1,0,0,1,351,290.26C372.11,338,389.85,320.74,411,368.47Z" transform="translate(-33.1 -256.75)" style="fill: url(#Gradient_bez_nazwy_124)"/>
+</svg>
